@@ -4,10 +4,14 @@
 ### Handson labs
  - [lab 1](https://kimsharing.s3.amazonaws.com/2019-09-13-Handson-ServerlessDataLakeDayLab1.pdf?AWSAccessKeyId=AKIAJXFERAZG3IRDYXEA&Signature=C%2BK198PQvH2Uj9YO8Ww/d/qvYZw%3D&Expires=1568821127)
 
+### AWS Kinesis
+  - Data Firehose: streaming data into data lake like S3
+  - [example 1](https://leemeng.tw/use-kinesis-streams-and-firehose-to-build-a-data-lake.html#%E5%BB%BA%E7%AB%8B%E4%B8%80%E5%80%8B-Kinesis-data-stream)
+
 ### AWS Glue
+  - serverless ETL tools
   - 可以建立爬蟲去自動爬S3檔案的內容並且建立好schema
   - schema更動會自動更新版本，可以透過切換版本去檢視更動
-
 
 ### AWS Athena
   - Presto
